@@ -12,5 +12,9 @@ This is from a YouTube course: \
 
 ## Run sample test
 
-1. run: `npx playwright test`
+1. command: `npx playwright test`
+
+## Show report
+
+1. command: `npx playwright show-report`
 
